@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cgt-agt-analysis": {
+      "command": "python",
+      "args": [
+        "/Users/shabeerkirmani/Downloads/CGT_AGT_PROJECT/mcp_server/server.py"
+      ],
+      "description": "CGT/AGT Strategic Analysis System - Game theory, Bayesian scenarios, causal modeling for macro-financial analysis"
+    }
+  }
+}
